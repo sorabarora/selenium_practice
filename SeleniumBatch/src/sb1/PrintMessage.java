@@ -5,6 +5,8 @@ public class PrintMessage {
 	public PrintMessage()
 	{
 		System.out.println("Hello World");
+		System.out.println("Finally Summar Starts");
+		
 	}
 
 	public static void main(String[] args) {
