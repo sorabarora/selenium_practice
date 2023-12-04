@@ -10,6 +10,7 @@ public class SA_1 {
 	public static void main(String[] args) {
 		
 		SA_1 sa1=new SA_1();
+		sa1.print_message();
 	}
 
 }
